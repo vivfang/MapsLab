@@ -1,3 +1,4 @@
+Team members: Vivian Fang and Emily Roth
 android-google-maps-demo
 ========================
 
